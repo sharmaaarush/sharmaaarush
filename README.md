@@ -40,6 +40,9 @@
   <a href="mailto:aarushsharma.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://resume.aarushsharma.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-101010?style=for-the-badge&logo=readthedocs&logoColor=white" height="25" alt="resume link" />
+  </a>
 </div>
 
 ###
