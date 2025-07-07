@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building real-time projects and improving my DSA skills**
 
-- 🌱 I’m currently learning **JavaScript • JavaFX**
+- 🌱 I’m currently learning **Web Development and JavaFX GUI**
 
 - 👯 I’m looking to collaborate on **web development & open-source tools**
 
