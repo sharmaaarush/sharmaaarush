@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I’m Aarush</h1>
+<h1 align="center">👋 Hey! I’m Aarush Sharma</h1>
 
 ###
 
@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" style="margin: 0 20px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" alt="tailwindcss" width="48" height="48" style="margin: 0 20px;" />
+    <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="48" height="48" style="margin: 0 20px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="margin: 0 20px;" />
