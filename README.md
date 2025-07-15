@@ -36,6 +36,9 @@
   <a href="https://www.linkedin.com/in/sharmaaarush/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Aarush%20Sharma&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="https://portfolio.aarushsharma.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-101010?style=for-the-badge&logo=globe&logoColor=white" height="25" alt="portfolio link" />
+  </a>
   <a href="https://leetcode.com/sharmaaarush/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="leetcode logo" />
   </a>
