@@ -39,6 +39,9 @@
   <a href="https://portfolio.aarushsharma.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Portfolio-101010?style=for-the-badge&logo=globe&logoColor=white" height="25" alt="portfolio link" />
   </a>
+  <a href="https://resume.aarushsharma.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-101010?style=for-the-badge&logo=readthedocs&logoColor=white" height="25" alt="resume link" />
+  </a>
   <a href="https://leetcode.com/sharmaaarush/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="leetcode logo" />
   </a>
@@ -50,9 +53,6 @@
   </a>
   <a href="mailto:aarushsharma.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://resume.aarushsharma.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-101010?style=for-the-badge&logo=readthedocs&logoColor=white" height="25" alt="resume link" />
   </a>
 </div>
 
