@@ -13,9 +13,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48" style="margin: 0 20px;" />
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="48" height="48" style="margin: 0 20px;" />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" style="margin: 0 20px;" />
   </a>
